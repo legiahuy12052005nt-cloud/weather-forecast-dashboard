@@ -1,0 +1,7 @@
+[
+  "tests/test_weather_service.py::test_daily_rows",
+  "tests/test_weather_service.py::test_day_range_validation",
+  "tests/test_weather_service.py::test_describe_weather_known",
+  "tests/test_weather_service.py::test_describe_weather_unknown",
+  "tests/test_weather_service.py::test_mismatched_lengths"
+]
